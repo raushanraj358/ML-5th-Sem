@@ -1,5 +1,6 @@
 # Machine-Learning-
-Assignment and lab codes of ML at IIIT Allahabad
+Assignment and lab codes of Machine Learning taught at IIIT-A.
+Name of Faculty :- Prof. Shekhar Verma , IIIT Allahabad
 
 
 Implement the following
